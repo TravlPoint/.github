@@ -1,4 +1,4 @@
-![LOGO](../assets/headerImage.png)
+![LOGO](https://github.com/TravlPoint/.github/blob/main/assets/headerImage.png)
 
 ### Who we are?
 We're Team _TravlPoint Ventures_ ! we're in vision of transforming tourism, We believe that things evolve and change with time.
